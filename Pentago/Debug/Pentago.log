@@ -1,0 +1,19 @@
+﻿  Pentago.cpp
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(13,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(14,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(15,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(16,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(17,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(18,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(19,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(20,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(21,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(22,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(23,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(24,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(25,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(26,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(27,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(28,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\pietr\source\repos\Pentago\Pentago\Pentago.cpp(892): warning C4715: 'test_pola': not all control paths return a value
+  Pentago.vcxproj -> C:\Users\pietr\source\repos\Pentago\Debug\Pentago.exe
